@@ -20,3 +20,9 @@ Please specify which branch you want to merge with.
 **git push --set-upstream origin main** 을 입력하여 해결한다.  
 
 이거 다 한 후에 git push 하면 정상적으로 push 됨.
+<br/><br/>
+
+
+## "여기에서 git-bash 열기…"컨텍스트 메뉴를 Windows 탐색기에 추가하는 방법
+<a href = "https://codestyle.tistory.com/177"> https://codestyle.tistory.com/177 참조하기! </a>
+
